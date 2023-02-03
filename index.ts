@@ -27,10 +27,10 @@ import Twit from "twit";
 
 // Configurez une nouvelle instance de Twit avec les clés d'API et les tokens d'accès
 const T = new Twit({
-  consumer_key: 'qMPGzCy5C7seQKYReGxl30IQs',
-  consumer_secret: 'wCNCuzXbNqISkmlNlS8dPrX0YKYTso1AAaxiDyU4q6VO7dgeiA',
-  access_token: '1275000187-x0C0EiWow65zr2EbgeFyVzk0G6hlx7c7bGzRjpO',
-  access_token_secret: 'MvHvIkYU4iCtD2kL4QgXYK6C0k4Y3PxGLHWc96X3DdwHo',
+  consumer_key: '...',
+  consumer_secret: '...',
+  access_token: '...',
+  access_token_secret: '...',
 });
 
 // Configurez une nouvelle instance d'application Express
